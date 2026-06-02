@@ -119,6 +119,10 @@ module.exports = {
 }
 ```
 
+TBsts63Q9GLsSde48AuCBqcUz9jVzg396j
+<img width="874" height="481" alt="image" src="https://github.com/user-attachments/assets/aff9f59c-0c9a-4a8f-b1b6-291ec7e8f1ea" />
+
+
 ## C. Writing and Compiling Smart Contracts
 
 We're going to create a simple smart contract that implements a token that can be transferred to different accounts. Token contracts are most frequently used to send tokens or to exchange or store value. A token contract is not more that a mapping of addresses to balances.
